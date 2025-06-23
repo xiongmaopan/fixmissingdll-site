@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://fixmissingdll.com/'
 languageCode = 'en-us'
 title = 'FixMissingDLL - Game Runtime Library'
 theme = 'hugo-theme-hello-friend-ng-master'

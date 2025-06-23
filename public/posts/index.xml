@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on FixMissingDLL - Game Runtime Library</title>
-        <link>http://localhost:1313/posts/</link>
+        <link>https://fixmissingdll.com/posts/</link>
         <description>Recent content in Posts on FixMissingDLL - Game Runtime Library</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Mon, 12 May 2025 09:18:00 +0000</lastBuildDate>
-        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://fixmissingdll.com/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>How to Fix dsound.dll Missing Error in Games</title>
-            <link>http://localhost:1313/posts/fix-missing-dsound-dll-in-games/</link>
+            <link>https://fixmissingdll.com/posts/fix-missing-dsound-dll-in-games/</link>
             <pubDate>Mon, 12 May 2025 09:18:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/fix-missing-dsound-dll-in-games/</guid>
+            <guid>https://fixmissingdll.com/posts/fix-missing-dsound-dll-in-games/</guid>
             <description>&lt;p&gt;If your game fails to launch due to a &lt;strong&gt;dsound.dll is missing&lt;/strong&gt; error, you&amp;rsquo;re not alone. This DLL is part of DirectX and is essential for audio in many games. Here&amp;rsquo;s how to fix it quickly and safely.&lt;/p&gt;
 &lt;h2 id=&#34;why-does-dsounddll-go-missing&#34;&gt;Why Does dsound.dll Go Missing?&lt;/h2&gt;
 &lt;ul&gt;
@@ -57,10 +57,10 @@
         
         <item>
             <title>How to Fix d3dx10_43.dll Missing Error in Games</title>
-            <link>http://localhost:1313/posts/fix-missing-d3dx10-43-dll-in-games/</link>
+            <link>https://fixmissingdll.com/posts/fix-missing-d3dx10-43-dll-in-games/</link>
             <pubDate>Tue, 22 Apr 2025 11:33:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/fix-missing-d3dx10-43-dll-in-games/</guid>
+            <guid>https://fixmissingdll.com/posts/fix-missing-d3dx10-43-dll-in-games/</guid>
             <description>&lt;p&gt;Getting a &lt;strong&gt;d3dx10_43.dll is missing&lt;/strong&gt; error when starting a game? This DLL is part of DirectX, and its absence can stop games from launching. Here&amp;rsquo;s how to fix it.&lt;/p&gt;
 &lt;h2 id=&#34;what-causes-d3dx10_43dll-errors&#34;&gt;What Causes d3dx10_43.dll Errors?&lt;/h2&gt;
 &lt;ul&gt;
@@ -104,10 +104,10 @@
         
         <item>
             <title>How to Fix d3dx11_43.dll Missing Error in Games</title>
-            <link>http://localhost:1313/posts/fix-missing-d3dx11-43-dll-in-games/</link>
+            <link>https://fixmissingdll.com/posts/fix-missing-d3dx11-43-dll-in-games/</link>
             <pubDate>Wed, 09 Apr 2025 18:11:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/fix-missing-d3dx11-43-dll-in-games/</guid>
+            <guid>https://fixmissingdll.com/posts/fix-missing-d3dx11-43-dll-in-games/</guid>
             <description>&lt;p&gt;Getting a &lt;strong&gt;d3dx11_43.dll is missing&lt;/strong&gt; error when starting a game? This DLL is part of DirectX, and its absence can stop games from launching. Here&amp;rsquo;s how to fix it.&lt;/p&gt;
 &lt;h2 id=&#34;what-causes-d3dx11_43dll-errors&#34;&gt;What Causes d3dx11_43.dll Errors?&lt;/h2&gt;
 &lt;ul&gt;
@@ -151,10 +151,10 @@
         
         <item>
             <title>How to Fix msvcp110.dll Missing Error in Games</title>
-            <link>http://localhost:1313/posts/fix-missing-msvcp110-dll-in-games/</link>
+            <link>https://fixmissingdll.com/posts/fix-missing-msvcp110-dll-in-games/</link>
             <pubDate>Sat, 29 Mar 2025 14:07:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/fix-missing-msvcp110-dll-in-games/</guid>
+            <guid>https://fixmissingdll.com/posts/fix-missing-msvcp110-dll-in-games/</guid>
             <description>&lt;p&gt;Seeing &lt;strong&gt;msvcp110.dll is missing&lt;/strong&gt; when launching a game? This DLL is part of the Microsoft Visual C++ 2012 Redistributable. Here&amp;rsquo;s how to fix it and get back to gaming.&lt;/p&gt;
 &lt;h2 id=&#34;why-does-msvcp110dll-go-missing&#34;&gt;Why Does msvcp110.dll Go Missing?&lt;/h2&gt;
 &lt;ul&gt;
@@ -198,10 +198,10 @@
         
         <item>
             <title>How to Fix dinput8.dll Missing Error in PC Games</title>
-            <link>http://localhost:1313/posts/fix-missing-dinput8-dll-in-games/</link>
+            <link>https://fixmissingdll.com/posts/fix-missing-dinput8-dll-in-games/</link>
             <pubDate>Fri, 14 Mar 2025 10:22:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/fix-missing-dinput8-dll-in-games/</guid>
+            <guid>https://fixmissingdll.com/posts/fix-missing-dinput8-dll-in-games/</guid>
             <description>&lt;p&gt;Experiencing the dreaded &lt;strong&gt;dinput8.dll is missing&lt;/strong&gt; error when launching your favorite PC game? This issue is common among Windows gamers and can prevent your game from starting. Here&amp;rsquo;s how to resolve it quickly and safely.&lt;/p&gt;
 &lt;h2 id=&#34;what-causes-dinput8dll-missing-error&#34;&gt;What Causes dinput8.dll Missing Error?&lt;/h2&gt;
 &lt;ul&gt;
@@ -255,10 +255,10 @@
         
         <item>
             <title>How to Fix vcomp140.dll Missing Error in Games</title>
-            <link>http://localhost:1313/posts/fix-missing-vcomp140-dll-in-games/</link>
+            <link>https://fixmissingdll.com/posts/fix-missing-vcomp140-dll-in-games/</link>
             <pubDate>Tue, 25 Feb 2025 16:41:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/fix-missing-vcomp140-dll-in-games/</guid>
+            <guid>https://fixmissingdll.com/posts/fix-missing-vcomp140-dll-in-games/</guid>
             <description>&lt;p&gt;If you see &lt;strong&gt;vcomp140.dll is missing&lt;/strong&gt; when launching a game, it&amp;rsquo;s likely due to a missing or corrupted Microsoft Visual C++ 2015 Redistributable. Here&amp;rsquo;s how to fix it and get back to gaming.&lt;/p&gt;
 &lt;h2 id=&#34;why-does-vcomp140dll-go-missing&#34;&gt;Why Does vcomp140.dll Go Missing?&lt;/h2&gt;
 &lt;ul&gt;
@@ -302,10 +302,10 @@
         
         <item>
             <title>DLL Error After Using System Cleaner? Here&#39;s How to Fix It (2025)</title>
-            <link>http://localhost:1313/posts/fix-dll-error-after-system-cleaner/</link>
+            <link>https://fixmissingdll.com/posts/fix-dll-error-after-system-cleaner/</link>
             <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/fix-dll-error-after-system-cleaner/</guid>
+            <guid>https://fixmissingdll.com/posts/fix-dll-error-after-system-cleaner/</guid>
             <description>&lt;h1 id=&#34;dll-error-after-using-system-cleaner-heres-how-to-fix-it-2025&#34;&gt;DLL Error After Using System Cleaner? Here&amp;rsquo;s How to Fix It (2025)&lt;/h1&gt;
 &lt;p&gt;System cleaners can help free up space, but sometimes they&amp;rsquo;re a little too aggressive and remove files your games need. Here&amp;rsquo;s how to recover from a DLL error after using a cleaner.&lt;/p&gt;
 &lt;h2 id=&#34;why-does-this-happen&#34;&gt;Why Does This Happen?&lt;/h2&gt;
@@ -384,10 +384,10 @@
         
         <item>
             <title>How to Fix xapofx1_5.dll Missing Error in Games</title>
-            <link>http://localhost:1313/posts/fix-missing-xapofx1-5-dll-in-games/</link>
+            <link>https://fixmissingdll.com/posts/fix-missing-xapofx1-5-dll-in-games/</link>
             <pubDate>Tue, 18 Feb 2025 13:37:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/fix-missing-xapofx1-5-dll-in-games/</guid>
+            <guid>https://fixmissingdll.com/posts/fix-missing-xapofx1-5-dll-in-games/</guid>
             <description>&lt;p&gt;Seeing a &lt;strong&gt;xapofx1_5.dll is missing&lt;/strong&gt; error when launching a game? This file is part of Microsoft DirectX and is essential for many modern games. Here&amp;rsquo;s how to fix it quickly and safely.&lt;/p&gt;
 &lt;h2 id=&#34;why-does-xapofx1_5dll-go-missing&#34;&gt;Why Does xapofx1_5.dll Go Missing?&lt;/h2&gt;
 &lt;ul&gt;
@@ -431,10 +431,10 @@
         
         <item>
             <title>How to Fix Game Won&#39;t Launch Due to DLL Error (2025)</title>
-            <link>http://localhost:1313/posts/fix-dll-error-game-wont-launch/</link>
+            <link>https://fixmissingdll.com/posts/fix-dll-error-game-wont-launch/</link>
             <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/fix-dll-error-game-wont-launch/</guid>
+            <guid>https://fixmissingdll.com/posts/fix-dll-error-game-wont-launch/</guid>
             <description>&lt;h1 id=&#34;how-to-fix-game-wont-launch-due-to-dll-error-2025&#34;&gt;How to Fix Game Won&amp;rsquo;t Launch Due to DLL Error (2025)&lt;/h1&gt;
 &lt;p&gt;Few things are more frustrating than clicking your game and getting a DLL error instead of the main menu. Here&amp;rsquo;s how to fix it and get back to playing.&lt;/p&gt;
 &lt;h2 id=&#34;why-does-this-happen&#34;&gt;Why Does This Happen?&lt;/h2&gt;
@@ -521,10 +521,10 @@
         
         <item>
             <title>Best DLL Fixer for PC Games: 2025 Review &amp; Guide</title>
-            <link>http://localhost:1313/posts/best-dll-fixer-for-pc-games/</link>
+            <link>https://fixmissingdll.com/posts/best-dll-fixer-for-pc-games/</link>
             <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/best-dll-fixer-for-pc-games/</guid>
+            <guid>https://fixmissingdll.com/posts/best-dll-fixer-for-pc-games/</guid>
             <description>&lt;h1 id=&#34;best-dll-fixer-for-pc-games-2025-review--guide&#34;&gt;Best DLL Fixer for PC Games: 2025 Review &amp;amp; Guide&lt;/h1&gt;
 &lt;p&gt;Missing DLL errors can ruin your gaming experience. But with the right tool, you can fix these issues in minutes. Here&amp;rsquo;s what real gamers recommend in 2025.&lt;/p&gt;
 &lt;h2 id=&#34;why-use-a-dll-fixer&#34;&gt;Why Use a DLL Fixer?&lt;/h2&gt;
@@ -591,10 +591,10 @@
         
         <item>
             <title>How to Fix api-ms-win-crt-runtime-l1-1-0.dll Error in Games (2025)</title>
-            <link>http://localhost:1313/posts/fix-api-ms-win-crt-runtime-l1-1-0-dll-error/</link>
+            <link>https://fixmissingdll.com/posts/fix-api-ms-win-crt-runtime-l1-1-0-dll-error/</link>
             <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/fix-api-ms-win-crt-runtime-l1-1-0-dll-error/</guid>
+            <guid>https://fixmissingdll.com/posts/fix-api-ms-win-crt-runtime-l1-1-0-dll-error/</guid>
             <description>&lt;h1 id=&#34;how-to-fix-api-ms-win-crt-runtime-l1-1-0dll-error-in-games-2025&#34;&gt;How to Fix api-ms-win-crt-runtime-l1-1-0.dll Error in Games (2025)&lt;/h1&gt;
 &lt;p&gt;If you&amp;rsquo;re seeing the api-ms-win-crt-runtime-l1-1-0.dll error when launching a game, you&amp;rsquo;re not alone. Here&amp;rsquo;s how to fix it and get back to playing.&lt;/p&gt;
 &lt;h2 id=&#34;why-does-this-error-happen&#34;&gt;Why Does This Error Happen?&lt;/h2&gt;
@@ -671,10 +671,10 @@
         
         <item>
             <title>How to Fix xinput1_3.dll Not Found Error in Games (2025)</title>
-            <link>http://localhost:1313/posts/fix-xinput1-3-dll-not-found/</link>
+            <link>https://fixmissingdll.com/posts/fix-xinput1-3-dll-not-found/</link>
             <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/fix-xinput1-3-dll-not-found/</guid>
+            <guid>https://fixmissingdll.com/posts/fix-xinput1-3-dll-not-found/</guid>
             <description>&lt;h1 id=&#34;how-to-fix-xinput1_3dll-not-found-error-in-games-2025&#34;&gt;How to Fix xinput1_3.dll Not Found Error in Games (2025)&lt;/h1&gt;
 &lt;p&gt;If your game refuses to start and throws an xinput1_3.dll error, you&amp;rsquo;re not alone. Here&amp;rsquo;s how to fix it quickly and get back to gaming.&lt;/p&gt;
 &lt;h2 id=&#34;why-does-this-error-happen&#34;&gt;Why Does This Error Happen?&lt;/h2&gt;
@@ -749,10 +749,10 @@
         
         <item>
             <title>How to Fix d3dcompiler_47.dll Missing Error in Games (2025)</title>
-            <link>http://localhost:1313/posts/fix-d3dcompiler-47-dll-missing/</link>
+            <link>https://fixmissingdll.com/posts/fix-d3dcompiler-47-dll-missing/</link>
             <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/fix-d3dcompiler-47-dll-missing/</guid>
+            <guid>https://fixmissingdll.com/posts/fix-d3dcompiler-47-dll-missing/</guid>
             <description>&lt;h1 id=&#34;how-to-fix-d3dcompiler_47dll-missing-error-in-games-2025&#34;&gt;How to Fix d3dcompiler_47.dll Missing Error in Games (2025)&lt;/h1&gt;
 &lt;p&gt;If your game refuses to launch and complains about d3dcompiler_47.dll, you&amp;rsquo;re not alone. Here&amp;rsquo;s how to fix it quickly and safely.&lt;/p&gt;
 &lt;h2 id=&#34;why-does-this-error-happen&#34;&gt;Why Does This Error Happen?&lt;/h2&gt;
@@ -827,10 +827,10 @@
         
         <item>
             <title>DLL Error After Reinstalling Windows? Here&#39;s How to Fix It (2025)</title>
-            <link>http://localhost:1313/posts/fix-dll-error-after-reinstalling-windows/</link>
+            <link>https://fixmissingdll.com/posts/fix-dll-error-after-reinstalling-windows/</link>
             <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/fix-dll-error-after-reinstalling-windows/</guid>
+            <guid>https://fixmissingdll.com/posts/fix-dll-error-after-reinstalling-windows/</guid>
             <description>&lt;h1 id=&#34;dll-error-after-reinstalling-windows-heres-how-to-fix-it-2025&#34;&gt;DLL Error After Reinstalling Windows? Here&amp;rsquo;s How to Fix It (2025)&lt;/h1&gt;
 &lt;p&gt;A fresh Windows install can breathe new life into your PC, but it often comes with missing DLL headaches—especially for gamers. Here&amp;rsquo;s how to fix it quickly and safely.&lt;/p&gt;
 &lt;h2 id=&#34;why-does-this-happen&#34;&gt;Why Does This Happen?&lt;/h2&gt;
@@ -903,10 +903,10 @@
         
         <item>
             <title>How to Fix msvcr120.dll Missing Error in Games</title>
-            <link>http://localhost:1313/posts/fix-missing-msvcr120-dll-in-games/</link>
+            <link>https://fixmissingdll.com/posts/fix-missing-msvcr120-dll-in-games/</link>
             <pubDate>Mon, 27 Jan 2025 15:44:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/fix-missing-msvcr120-dll-in-games/</guid>
+            <guid>https://fixmissingdll.com/posts/fix-missing-msvcr120-dll-in-games/</guid>
             <description>&lt;p&gt;If you see the &lt;strong&gt;msvcr120.dll is missing&lt;/strong&gt; error when launching a game, you&amp;rsquo;re not alone. This DLL is part of the Microsoft Visual C++ 2013 Redistributable, and its absence can prevent games from running.&lt;/p&gt;
 &lt;h2 id=&#34;why-does-msvcr120dll-go-missing&#34;&gt;Why Does msvcr120.dll Go Missing?&lt;/h2&gt;
 &lt;ul&gt;
@@ -950,10 +950,10 @@
         
         <item>
             <title>DLL Missing After Windows Update? How to Fix Gaming Issues (2025)</title>
-            <link>http://localhost:1313/posts/fix-dll-missing-after-windows-update-gaming/</link>
+            <link>https://fixmissingdll.com/posts/fix-dll-missing-after-windows-update-gaming/</link>
             <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/fix-dll-missing-after-windows-update-gaming/</guid>
+            <guid>https://fixmissingdll.com/posts/fix-dll-missing-after-windows-update-gaming/</guid>
             <description>&lt;h1 id=&#34;dll-missing-after-windows-update-how-to-fix-gaming-issues-2025&#34;&gt;DLL Missing After Windows Update? How to Fix Gaming Issues (2025)&lt;/h1&gt;
 &lt;p&gt;It&amp;rsquo;s not uncommon for a Windows update to break your gaming setup by causing missing DLL errors. Here&amp;rsquo;s how to get things back on track.&lt;/p&gt;
 &lt;h2 id=&#34;why-does-this-happen&#34;&gt;Why Does This Happen?&lt;/h2&gt;
@@ -1032,10 +1032,10 @@
         
         <item>
             <title>Game Won&#39;t Start Due to Missing DLL? Here&#39;s What to Do (2025)</title>
-            <link>http://localhost:1313/posts/fix-game-wont-start-due-to-missing-dll/</link>
+            <link>https://fixmissingdll.com/posts/fix-game-wont-start-due-to-missing-dll/</link>
             <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/fix-game-wont-start-due-to-missing-dll/</guid>
+            <guid>https://fixmissingdll.com/posts/fix-game-wont-start-due-to-missing-dll/</guid>
             <description>&lt;h1 id=&#34;game-wont-start-due-to-missing-dll-heres-what-to-do-2025&#34;&gt;Game Won&amp;rsquo;t Start Due to Missing DLL? Here&amp;rsquo;s What to Do (2025)&lt;/h1&gt;
 &lt;p&gt;It&amp;rsquo;s a classic gamer nightmare: you double-click your favorite game, and nothing happens—except a &amp;ldquo;missing DLL&amp;rdquo; error. Here&amp;rsquo;s how to fix it, based on real-world experience.&lt;/p&gt;
 &lt;h2 id=&#34;why-does-this-happen&#34;&gt;Why Does This Happen?&lt;/h2&gt;
@@ -1122,10 +1122,10 @@
         
         <item>
             <title>How to Fix d3dx9_25.dll Missing Error in Games</title>
-            <link>http://localhost:1313/posts/fix-missing-d3dx9-25-dll-in-games/</link>
+            <link>https://fixmissingdll.com/posts/fix-missing-d3dx9-25-dll-in-games/</link>
             <pubDate>Sun, 19 Jan 2025 08:55:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/fix-missing-d3dx9-25-dll-in-games/</guid>
+            <guid>https://fixmissingdll.com/posts/fix-missing-d3dx9-25-dll-in-games/</guid>
             <description>&lt;p&gt;Seeing a &lt;strong&gt;d3dx9_25.dll is missing&lt;/strong&gt; error when launching a game? This file is part of Microsoft DirectX and is essential for many modern games. Here&amp;rsquo;s how to fix it quickly and safely.&lt;/p&gt;
 &lt;h2 id=&#34;why-does-d3dx9_25dll-go-missing&#34;&gt;Why Does d3dx9_25.dll Go Missing?&lt;/h2&gt;
 &lt;ul&gt;
@@ -1169,10 +1169,10 @@
         
         <item>
             <title>How to Fix DirectX Runtime Error When Launching a Game (2025)</title>
-            <link>http://localhost:1313/posts/fix-directx-runtime-error-launching-game/</link>
+            <link>https://fixmissingdll.com/posts/fix-directx-runtime-error-launching-game/</link>
             <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/fix-directx-runtime-error-launching-game/</guid>
+            <guid>https://fixmissingdll.com/posts/fix-directx-runtime-error-launching-game/</guid>
             <description>&lt;h1 id=&#34;how-to-fix-directx-runtime-error-when-launching-a-game-2025&#34;&gt;How to Fix DirectX Runtime Error When Launching a Game (2025)&lt;/h1&gt;
 &lt;p&gt;DirectX runtime errors can stop your game before it even starts. Here&amp;rsquo;s how real gamers and tech experts tackle this issue in 2025.&lt;/p&gt;
 &lt;h2 id=&#34;why-does-this-happen&#34;&gt;Why Does This Happen?&lt;/h2&gt;
@@ -1249,10 +1249,10 @@
         
         <item>
             <title>Best Way to Fix msvcp140.dll Not Found (2025 Edition)</title>
-            <link>http://localhost:1313/posts/fix-msvcp140-dll-not-found/</link>
+            <link>https://fixmissingdll.com/posts/fix-msvcp140-dll-not-found/</link>
             <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/fix-msvcp140-dll-not-found/</guid>
+            <guid>https://fixmissingdll.com/posts/fix-msvcp140-dll-not-found/</guid>
             <description>&lt;h1 id=&#34;best-way-to-fix-msvcp140dll-not-found-2025-edition&#34;&gt;Best Way to Fix msvcp140.dll Not Found (2025 Edition)&lt;/h1&gt;
 &lt;p&gt;Nothing is more frustrating than seeing the &amp;ldquo;msvcp140.dll not found&amp;rdquo; error when you&amp;rsquo;re ready to play. This guide will walk you through the most effective ways to fix it, based on real gamer experiences and expert advice.&lt;/p&gt;
 &lt;h2 id=&#34;what-causes-the-msvcp140dll-error&#34;&gt;What Causes the msvcp140.dll Error?&lt;/h2&gt;
@@ -1331,10 +1331,10 @@
         
         <item>
             <title>How to Fix vcruntime140.dll Is Missing Game Error (2025 Guide)</title>
-            <link>http://localhost:1313/posts/fix-vcruntime140-dll-missing-game-error/</link>
+            <link>https://fixmissingdll.com/posts/fix-vcruntime140-dll-missing-game-error/</link>
             <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/fix-vcruntime140-dll-missing-game-error/</guid>
+            <guid>https://fixmissingdll.com/posts/fix-vcruntime140-dll-missing-game-error/</guid>
             <description>&lt;h1 id=&#34;how-to-fix-vcruntime140dll-is-missing-game-error-2025-guide&#34;&gt;How to Fix vcruntime140.dll Is Missing Game Error (2025 Guide)&lt;/h1&gt;
 &lt;p&gt;If you&amp;rsquo;ve ever tried to launch a PC game and were greeted by a message saying &amp;ldquo;vcruntime140.dll is missing,&amp;rdquo; you&amp;rsquo;re not alone. This error is especially common after a fresh Windows install or when running new games on older systems. Here&amp;rsquo;s what you need to know—and how to get back in the game fast.&lt;/p&gt;
 &lt;h2 id=&#34;why-does-this-error-happen&#34;&gt;Why Does This Error Happen?&lt;/h2&gt;
@@ -1417,10 +1417,10 @@
         
         <item>
             <title>How to Fix Missing d3dx9_43.dll for Games in 2025</title>
-            <link>http://localhost:1313/posts/fix-missing-d3dx9-43-dll/</link>
+            <link>https://fixmissingdll.com/posts/fix-missing-d3dx9-43-dll/</link>
             <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/fix-missing-d3dx9-43-dll/</guid>
+            <guid>https://fixmissingdll.com/posts/fix-missing-d3dx9-43-dll/</guid>
             <description>&lt;h1 id=&#34;how-to-fix-missing-d3dx9_43dll-for-games-in-2025&#34;&gt;How to Fix Missing d3dx9_43.dll for Games in 2025&lt;/h1&gt;
 &lt;p&gt;Are you seeing the error &amp;ldquo;d3dx9_43.dll is missing&amp;rdquo; when launching your favorite PC game? This is a common issue, especially for games that require DirectX 9 components. Here&amp;rsquo;s how to resolve it safely and effectively:&lt;/p&gt;
 &lt;h2 id=&#34;what-causes-the-d3dx9_43dll-error&#34;&gt;What Causes the d3dx9_43.dll Error?&lt;/h2&gt;
@@ -1493,20 +1493,20 @@
         
         <item>
             <title></title>
-            <link>http://localhost:1313/posts/fix-dll-error-after-moving-game/</link>
+            <link>https://fixmissingdll.com/posts/fix-dll-error-after-moving-game/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/fix-dll-error-after-moving-game/</guid>
+            <guid>https://fixmissingdll.com/posts/fix-dll-error-after-moving-game/</guid>
             <description></description>
             <content type="html"><![CDATA[]]></content>
         </item>
         
         <item>
             <title></title>
-            <link>http://localhost:1313/posts/fix-dll-error-after-updating-graphics-driver/</link>
+            <link>https://fixmissingdll.com/posts/fix-dll-error-after-updating-graphics-driver/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/fix-dll-error-after-updating-graphics-driver/</guid>
+            <guid>https://fixmissingdll.com/posts/fix-dll-error-after-updating-graphics-driver/</guid>
             <description></description>
             <content type="html"><![CDATA[]]></content>
         </item>
