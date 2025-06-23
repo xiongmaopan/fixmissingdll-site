@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DirectX Install on FixMissingDLL - Game Runtime Library</title>
+    <link>http://localhost:1313/tags/directx-install/</link>
+    <description>Recent content in DirectX Install on FixMissingDLL - Game Runtime Library</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/directx-install/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Fix &#39;The following Components are required to run this program - DirectX Runtime&#39; Error</title>
+      <link>http://localhost:1313/posts/directx-runtime-required-fix/</link>
+      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/directx-runtime-required-fix/</guid>
+      <description>&lt;h1 id=&#34;how-to-fix-the-following-components-are-required-to-run-this-program---directx-runtime-error&#34;&gt;How to Fix &amp;lsquo;The following Components are required to run this program - DirectX Runtime&amp;rsquo; Error&lt;/h1&gt;&#xA;&lt;p&gt;Many PC games require DirectX to run. If you see an error like &amp;ldquo;The following Components are required to run this program - DirectX Runtime,&amp;rdquo; follow these steps to fix it:&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-download-and-install-the-latest-directx&#34;&gt;1. Download and Install the Latest DirectX&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Visit the official Microsoft DirectX End-User Runtime Web Installer page&lt;/li&gt;&#xA;&lt;li&gt;Download and run the installer&lt;/li&gt;&#xA;&lt;li&gt;Follow the prompts to complete installation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-update-windows&#34;&gt;2. Update Windows&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Go to Settings &amp;gt; Update &amp;amp; Security &amp;gt; Windows Update&lt;/li&gt;&#xA;&lt;li&gt;Check for updates and install all available updates&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;3-reinstall-the-game&#34;&gt;3. Reinstall the Game&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sometimes, reinstalling the game will automatically install the required DirectX components&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;4-check-for-missing-dlls&#34;&gt;4. Check for Missing DLLs&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Use FixMissingDLL.com to scan and repair missing DirectX DLL files automatically&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;5-run-as-administrator&#34;&gt;5. Run as Administrator&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Right-click the game shortcut &amp;gt; Properties &amp;gt; Compatibility &amp;gt; Run as administrator&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; Always download DirectX from the official Microsoft website to avoid malware.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

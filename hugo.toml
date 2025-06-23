@@ -1,0 +1,40 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'FixMissingDLL - Game Runtime Library'
+theme = 'hugo-theme-hello-friend-ng-master'
+
+[params]
+  homeSubtitle = "Game Runtime Library, Play Every Game Smoothly!"
+
+  [params.logo]
+    logoMark     = ">"
+    logoText     = "FixMissingDLL.com"
+    logoHomeLink = "/"
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+  [params.footer]
+    trademark = 2025
+    rss = true
+    copyright = true
+    author = true
+    topText = []
+    bottomText = [
+      "<span style=\"display:block;text-align:center;line-height:2;\">Born in 2025 · <a href=\"/\">FixMissingDLL.com</a> · Game Runtime Library · DLL Fix · Missing DLL · DirectX · VC++ · .NET Framework · Game DLL · Game Error Fix · Download · Support · Powered by <a href=\"http://gohugo.io\">Hugo</a> · Made with &#10084; by the FixMissingDLL Team · Contact: <a href=\"mailto:FixMissingDLL@gmail.com\">FixMissingDLL@gmail.com</a> (Feel free to email us for any questions or feedback!)</span>"
+    ]

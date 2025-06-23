@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DLL Missing on FixMissingDLL - Game Runtime Library</title>
+    <link>http://localhost:1313/tags/dll-missing/</link>
+    <description>Recent content in DLL Missing on FixMissingDLL - Game Runtime Library</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jan 2025 15:44:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/dll-missing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Fix msvcr120.dll Missing Error in Games</title>
+      <link>http://localhost:1313/posts/fix-missing-msvcr120-dll-in-games/</link>
+      <pubDate>Mon, 27 Jan 2025 15:44:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fix-missing-msvcr120-dll-in-games/</guid>
+      <description>&lt;p&gt;If you see the &lt;strong&gt;msvcr120.dll is missing&lt;/strong&gt; error when launching a game, you&amp;rsquo;re not alone. This DLL is part of the Microsoft Visual C++ 2013 Redistributable, and its absence can prevent games from running.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-does-msvcr120dll-go-missing&#34;&gt;Why Does msvcr120.dll Go Missing?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Incomplete or failed VC++ 2013 installation&lt;/li&gt;&#xA;&lt;li&gt;Accidental deletion by antivirus or system cleaner&lt;/li&gt;&#xA;&lt;li&gt;Corrupted game files&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;step-by-step-fix&#34;&gt;Step-by-Step Fix&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-download-msvcr120dll-safely&#34;&gt;1. Download msvcr120.dll Safely&lt;/h3&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h3 id=&#34;2-install-microsoft-visual-c-2013-redistributable&#34;&gt;2. Install Microsoft Visual C++ 2013 Redistributable&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/download/details.aspx?id=40784&#34;&gt;Download VC++ 2013 Redistributable&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
