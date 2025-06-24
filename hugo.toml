@@ -1,10 +1,12 @@
 baseURL = 'https://fixmissingdll.com/'
 languageCode = 'en-us'
-title = 'FixMissingDLL - Game Runtime Library'
+title = 'FixMissingDLL - Missing DLL Fixer & Game Runtime Library Download'
 theme = 'hugo-theme-hello-friend-ng-master'
 
 [params]
-  homeSubtitle = "Game Runtime Library, Play Every Game Smoothly!"
+  homeSubtitle = "Download the best missing DLL fixer tool for games. Fix DirectX, Visual C++, .NET Framework runtime errors automatically."
+  description = "FixMissingDLL - The most reliable missing DLL fixer tool for Windows games. Download and fix missing DirectX, Visual C++ Redistributable, .NET Framework runtime errors automatically."
+  keywords = "missing DLL fixer, game runtime library, DLL error fix, DirectX runtime, Visual C++ redistributable, game won't start, missing DLL download, automatic DLL repair, game crash fix"
 
   [params.logo]
     logoMark     = ">"
@@ -36,5 +38,5 @@ theme = 'hugo-theme-hello-friend-ng-master'
     author = true
     topText = []
     bottomText = [
-      "<span style=\"display:block;text-align:center;line-height:2;\">Born in 2025 · <a href=\"/\">FixMissingDLL.com</a> · Game Runtime Library · DLL Fix · Missing DLL · DirectX · VC++ · .NET Framework · Game DLL · Game Error Fix · Download · Support · Powered by <a href=\"http://gohugo.io\">Hugo</a> · Made with &#10084; by the FixMissingDLL Team · Contact: <a href=\"mailto:FixMissingDLL@gmail.com\">FixMissingDLL@gmail.com</a> (Feel free to email us for any questions or feedback!)</span>"
+      "<span style=\"display:block;text-align:center;line-height:2;\">Born in 2025 · <a href=\"/\">FixMissingDLL.com</a> · Missing DLL Fixer · Game Runtime Library · DLL Error Fix · DirectX Runtime · VC++ Redistributable · .NET Framework · Game DLL Fix · Game Error Fix · Download · Support · Powered by <a href=\"http://gohugo.io\">Hugo</a> · Made with &#10084; by the FixMissingDLL Team · Contact: <a href=\"mailto:FixMissingDLL@gmail.com\">FixMissingDLL@gmail.com</a> (Feel free to email us for any questions or feedback!)</span>"
     ]
